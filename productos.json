@@ -1,0 +1,47 @@
+[
+  {
+    "id": 2,
+    "title": "tarjeta de video",
+    "description": "high performance",
+    "price": 300,
+    "thumbnail": "otra imagen",
+    "code": "def456",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "mother",
+    "description": "ultra power",
+    "price": 210,
+    "thumbnail": "otra imagen más",
+    "code": "ghi789",
+    "stock": 8
+  },
+  {
+    "id": 4,
+    "title": "memoria ram",
+    "description": "top memory",
+    "price": 25,
+    "thumbnail": "nueva imagen",
+    "code": "jkl 012",
+    "stock": 3
+  },
+  {
+    "id": 5,
+    "title": "estabilizador celular",
+    "description": "smooth",
+    "price": 75,
+    "thumbnail": "otra imagen nueva",
+    "code": "mno345",
+    "stock": 1
+  },
+  {
+    "id": 6,
+    "title": "camera",
+    "description": "free bitrate",
+    "price": 210,
+    "thumbnail": "otra vez sin imagen",
+    "code": "pqr678",
+    "stock": 11
+  }
+]
